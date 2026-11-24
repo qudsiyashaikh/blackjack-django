@@ -1,4 +1,4 @@
-# 🃏 Blackjack Game (Django Edition)
+<img width="665" height="573" alt="Screenshot 2026-11-24 154712" src="https://github.com/user-attachments/assets/5c0277a2-fc40-4ab0-95fd-f4e37703761c" /># 🃏 Blackjack Game (Django Edition)
 
 A browser-playable **Blackjack** card game built with **Django** as part of my **60-Day Unique Python Projects Challenge**. Play against the dealer using Hit and Stand actions with full Ace (`11` or `1`) adjustment and dealer draw rules.
 
